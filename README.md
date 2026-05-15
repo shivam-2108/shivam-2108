@@ -1,17 +1,15 @@
- Hi 👋, I'm Shivam Anand
+# Hi 👋, I'm Shivam Anand
 
-💻 Information Technology Student | Software Developer | Problem Solver
+💻 **Information Technology Student**
+   **Full Stack Developer**
+---
 
-Passionate about building efficient, scalable, and user-friendly applications.  
-Focused on continuous learning, clean code, and improving development skills every day.
+ ## 🙋 About Me
 
- 🙋 About Me
-
- 🎓 Pursuing B.Tech in Computer Science
- 💡 Interested in Software Development & Web Technologies
- ⚙️ Skilled in Java, HTML, CSS, JavaScript, and SQL
- 📚 Currently exploring Backend Development and Modern Frameworks
- 🚀 Enthusiastic about problem solving and real-world projects
+ 🎓 Pursuing **B.Tech in Information Technology**
+ 💡 Interested in **Software Development** & **Web Development**
+ 📚 Currently exploring **Backend Development and Modern Frameworks**
+ 🚀 Enthusiastic about **problem solving and real-world projects**
  ✨ Strong believer in continuous learning and teamwork
 
 ---
