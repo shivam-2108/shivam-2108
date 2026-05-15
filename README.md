@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shivam Anand
 
-- 💻 **Information Technology Student**-
+- **Information Technology Student**
 -   **Full Stack Developer**
 ---
 
