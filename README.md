@@ -1,4 +1,20 @@
+ Hi 👋, I'm Shivam Anand
 
+💻 Information Technology Student | Software Developer | Problem Solver
+
+Passionate about building efficient, scalable, and user-friendly applications.  
+Focused on continuous learning, clean code, and improving development skills every day.
+
+ 🙋 About Me
+
+ 🎓 Pursuing B.Tech in Computer Science
+ 💡 Interested in Software Development & Web Technologies
+ ⚙️ Skilled in Java, HTML, CSS, JavaScript, and SQL
+ 📚 Currently exploring Backend Development and Modern Frameworks
+ 🚀 Enthusiastic about problem solving and real-world projects
+ ✨ Strong believer in continuous learning and teamwork
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivam-2108) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamanand2182006@gmail.com) 
 
